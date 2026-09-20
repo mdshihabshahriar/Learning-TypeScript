@@ -1,0 +1,8 @@
+{
+    "compilerOptions":{
+        "target": "esnext",
+        "outDir": "assets/js",
+        "rootDir": "assets/ts",
+        "noEmitOnError": true    // if there are any errors, do not emit the compiled files into javascript
+    }
+}
