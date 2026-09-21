@@ -2,7 +2,7 @@
 
 A hands-on repository for learning and practicing **TypeScript** from the fundamentals to Object-Oriented Programming (OOP) and modern development setup using **Vite**.
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### 1. TypeScript Fundamentals
 
